@@ -1,4 +1,4 @@
-## Classify human cell's category SVM classifier.
+## Classify human cell's category using SVM classifier.
 - Implemented SVM classifier to predict human cell's category in either benign or malignant.
 - Used a sample dataset for human cells. 
 - Trained the model for SVM classifier using scikit-learn library.
